@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Title: csvprocessor
-Version: 1.0-SNAPSHOT
-Main-Class: kr.goldenmine.CSVFileNameChanger
-
